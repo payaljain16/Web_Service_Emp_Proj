@@ -1,0 +1,3 @@
+clerk1|23|8000|Clerk
+prog1|24|25000|Programmer
+Manager1|45|80000|Manager
